@@ -1,0 +1,12 @@
+{
+  "name": "swholidaychallenge",
+  "version": "1.0.0",
+  "description": "Holiday activity for 2019",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Eric Udlis",
+  "license": "SEE LICENSE IN LICENSE"
+}
